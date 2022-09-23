@@ -1,0 +1,5 @@
+[INFO ] 2022-09-23 10:17:31.796 [main]  - Employee Added : true
+[INFO ] 2022-09-23 10:18:12.463 [main]  - PersonalDetails [firstName=Harshitha, lastName=Edupuganti, address=Tadepalligudem, email=harshi02645@gmail.com, phoneNumber=9494887088, dateOfBirth=2001-10-10, weddingDate=2030-10-10]
+[INFO ] 2022-09-23 10:19:13.487 [main]  - Employee Added : true
+[INFO ] 2022-09-23 10:20:15.712 [main]  - Employee Added : true
+[INFO ] 2022-09-23 10:20:46.022 [main]  - PersonalDetails [firstName=Anil, lastName=Mutyala, address=Tanuku, email=durgaanil07@gmail.com, phoneNumber=9121691928, dateOfBirth=2000-12-06, weddingDate=2030-10-10]
